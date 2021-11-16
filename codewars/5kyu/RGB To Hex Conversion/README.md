@@ -1,6 +1,6 @@
-# Title: Human Readable Time
+# Title: RGB To Hex Conversion
 
-### From: https://www.codewars.com/kata/52685f7382004e774f0001f7
+### From: https://www.codewars.com/kata/513e08acc600c94f01000001
 
 ***
 ## Description

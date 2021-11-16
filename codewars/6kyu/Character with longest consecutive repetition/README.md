@@ -1,6 +1,6 @@
-# Title: Count the smiley faces!
+# Title: Character with longest consecutive repetition
 
-### From: https://www.codewars.com/kata/583203e6eb35d7980400002a
+### From: https://www.codewars.com/kata/586d6cefbcc21eed7a001155
 
 ***
 
