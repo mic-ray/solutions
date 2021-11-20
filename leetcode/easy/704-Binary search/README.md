@@ -24,7 +24,7 @@ You must write an algorithm with `O(log n)` runtime complexity.
  
 **Constraints:**
 
-- `1 <= nums.length <= 104`
-- `-104 < nums[i], target < 104`
+- `1 <= nums.length <= 10⁴`
+- `-10⁴ < nums[i], target < 10⁴`
 - All the integers in `nums` are **unique**.
 - `nums` is sorted in ascending order.
